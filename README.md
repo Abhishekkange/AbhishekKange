@@ -77,7 +77,7 @@ Building fundamental architectures without frameworks
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](#)
 [![Research Gate](https://img.shields.io/badge/Research_Gate-00CCBB.svg?&logo=ResearchGate&logoColor=white)](#)
 
-📧 **Email:** [your.email@example.com]  
+📧 **Email:** [abhishekkange@gmail.com]  
 💬 **Open to:** Research collaborations, ML discussions, and open-source contributions
 
 ---
